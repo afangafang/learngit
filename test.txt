@@ -1,0 +1,23 @@
+commit 70f295da2e6741964fa8ea63113a00628269670c (HEAD -> master)
+Author: gdf <afang374621@163.com>
+Date:   Sun Nov 24 22:40:02 2024 +0800
+
+    append GPL
+
+commit e9b60c99b3b824bd370007ae70ae53f47aebc78e
+Author: gdf <afang374621@163.com>
+Date:   Sun Nov 24 22:31:51 2024 +0800
+
+    add distributed
+
+commit 9cf72f7588a85c7694ab28b177b0c4cdf37197fa
+Author: gdf <afang374621@163.com>
+Date:   Sun Nov 24 22:11:01 2024 +0800
+
+    add 3 files.
+
+commit ded37d87f67d0d21a8f8e3d7ed9538848eebfe9f
+Author: gdf <afang374621@163.com>
+Date:   Sun Nov 24 21:53:29 2024 +0800
+
+    wrote a readme file
