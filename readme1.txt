@@ -6,3 +6,5 @@ new branch develop
 new branch feature1
 commit feature1 before rebease 1
 commit feature1 before rebease 2
+commit feature1 after merge to develop
+
