@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 new branch develop
 new branch feature1
+commit feature1 before rebease 1
